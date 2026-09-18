@@ -30,3 +30,5 @@ py code/demo.py
 
 The sum from 1 to 10 is: 55
 
+
+已在 GitHub 网页更新本说明，用于练习 git pull。
